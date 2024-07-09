@@ -1,1 +1,1 @@
-# Minimum-klid-Mesafesinin-Hesaplanmas-
+ Python Minimum Öklid Mesafesinin Hesaplanması 
